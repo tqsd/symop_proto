@@ -1,11 +1,10 @@
-# `symop_proto` - Prototype for symbolic quantum simulation
+# symop_proto
 
-## Installation
+⚠️ This project is deprecated.
 
-## Documentation
-Documentation lives in this repository right now. The documentation can be viewed by:
-```bash
-cd docs
-make livehtml
-```
+The *symop* project has moved to its official location:
 
+➡️ https://github.com/tqsd/symop
+
+All active development and documentation are maintained there.
+This project is retained for historical reference only.
